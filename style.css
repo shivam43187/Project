@@ -1,0 +1,119 @@
+body{
+padding:0;
+margin:0;
+font-family:sans-serif;
+}
+*{
+box-sizing:border-box;
+}
+.header{
+width:100%;
+height:350px;
+background-color:white;
+}
+.header1{
+width:100%;
+height:80px;
+background-color:purple;
+}
+.header-img{
+width:100%;
+height:130px;
+background-color:grey;
+}
+.header-img img{
+background-size:cover;
+}
+.container{
+width:100%;
+}
+.container h1{
+text-align:center;
+}
+.container .c1{
+width:90%;
+height:200px;
+margin-left:5%;
+margin-right:5%;
+margin-top:30px;
+margin-bottom:15px;
+background-color:green;
+border-radius:5px;
+text-align:center;
+line-height:200px;
+font-size:30px;
+color:#faedab;
+}
+.container .c2{
+width:90%;
+height:400px;
+margin-left:5%;
+margin-right:5%;
+margin-top:30px;
+margin-bottom:15px;
+background-color:white;
+border-radius:5px;
+text-align:center;
+}
+.aim{
+width:100%;
+height:500px;
+background-color:#23fad3;
+}
+.container1{
+width:100%;
+}
+.container1 h1{
+text-align:center;
+}
+.container1 .doctors{
+width:90%;
+height:400px;
+margin-left:5%;
+margin-right:5%;
+margin-top:30px;
+margin-bottom:15px;
+background-color:grey;
+border-radius:5px;
+}
+.container1 .gallery{
+width:90%;
+height:400px;
+margin-left:5%;
+margin-right:5%;
+margin-top:30px;
+margin-bottom:15px;
+background-color:grey;
+border-radius:5px;
+}
+.contact{
+width:100%;
+}
+.contact h1{
+text-align:center;
+}
+.contact .contact-us{
+width:90%;
+height:200px;
+margin-left:5%;
+margin-right:5%;
+margin-top:30px;
+margin-bottom:15px;
+background-color:grey;
+border-radius:5px;
+text-align:center;
+padding-top:50px;
+}
+.contact .contact-us input{
+background:transparent;
+border:none;
+outline:none;
+color:white;
+}
+.contact .contact-us input::placeholder{
+color:white;
+}
+.footer{
+width:100%;
+text-align:center;
+}
